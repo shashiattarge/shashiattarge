@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shashikant Attarge
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Full Stack Development.
+- 🌱 I’m a Software Engineer.
 
 <!---
 shashiattarge/shashiattarge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
